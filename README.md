@@ -1,2 +1,1 @@
-This is a repo for the docs of this project
-LiHang 
+This is a repo for the docs of this project.
